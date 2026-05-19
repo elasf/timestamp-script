@@ -4,8 +4,8 @@ from PIL import Image, ImageDraw, ImageFont
 import piexif
 
 SOURCE_FOLDER = r"D:\DCIM\101MSDCF"  #your camera's default folder for photos
-DEST_FOLDER = r"C:FILLHERE" #where you want the processed photos to be saved
-FONT_PATH = r"C:FILLHERE" #make sure to get it from google fonts or use default fonts
+DEST_FOLDER = r"C:\Users\...\Desktop\cybershot" #where you want the processed photos to be saved
+FONT_PATH = r"C:\Users\...\Desktop\ShareTechMono-Regular.ttf" #make sure to get it from google fonts or use default fonts
 FONT_SIZE = 100 
 TEXT_COLOR = (255, 255, 0) #yellow
 
